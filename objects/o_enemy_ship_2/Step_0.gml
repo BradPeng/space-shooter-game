@@ -1,0 +1,1 @@
+move_toward_player();
