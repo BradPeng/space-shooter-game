@@ -25,7 +25,7 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_one","path":"objects/o_enemy_ship_one/o_enemy_ship_one.yy",},"parent":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"parent":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"parent":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"parent":{"name":"o_enemy_laser","path":"objects/o_enemy_laser/o_enemy_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],

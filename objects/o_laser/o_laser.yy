@@ -25,7 +25,7 @@
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":1,"collisionObjectId":null,"parent":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_one","path":"objects/o_enemy_ship_one/o_enemy_ship_one.yy",},"parent":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"parent":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"parent":{"name":"o_laser","path":"objects/o_laser/o_laser.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],

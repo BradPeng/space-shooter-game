@@ -24,10 +24,10 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"parent":{"name":"o_enemy_ship_2","path":"objects/o_enemy_ship_2/o_enemy_ship_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"parent":{"name":"o_enemy_ship_two","path":"objects/o_enemy_ship_two/o_enemy_ship_two.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [
     {"varType":1,"value":"320","rangeEnabled":false,"rangeMin":0.0,"rangeMax":10.0,"listItems":[],"multiselect":false,"filters":[],"resourceVersion":"1.0","name":"attack_range","tags":[],"resourceType":"GMObjectProperty",},
@@ -35,13 +35,14 @@
   ],
   "overriddenProperties": [
     {"propertyId":{"name":"armour","path":"objects/o_ship_parent/o_ship_parent.yy",},"objectId":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
+    {"propertyId":{"name":"max_armour","path":"objects/o_ship_parent/o_ship_parent.yy",},"objectId":{"name":"o_ship_parent","path":"objects/o_ship_parent/o_ship_parent.yy",},"value":"3","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
   ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_enemy_ship_2",
+  "name": "o_enemy_ship_two",
   "tags": [],
   "resourceType": "GMObject",
 }
