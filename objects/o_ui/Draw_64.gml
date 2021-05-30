@@ -29,6 +29,11 @@ if (room == r_space) {
 	
 	draw_set_halign(fa_right);
 	draw_text(_score_x - 3, _score_y + 1, "Highscore: " + string(global.highscore));
-	draw_set_halign(fa_left);
+	
+	
+	var _version_x = room_width/2;
+	var _version_y = 200;
+	draw_text(x, y + 20, "Version 1.2");
+	draw_set_halign(fa_center);
 	#endregion
 }

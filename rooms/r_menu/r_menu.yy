@@ -14,7 +14,7 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_5F364BA6","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":352.0,"y":96.0,"resourceVersion":"1.0","name":"inst_5F364BA6","tags":[],"resourceType":"GMRInstance",},
         {"properties":[
             {"propertyId":{"name":"text","path":"objects/o_button/o_button.yy",},"objectId":{"name":"o_button","path":"objects/o_button/o_button.yy",},"value":"Quit","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
             {"propertyId":{"name":"script","path":"objects/o_button/o_button.yy",},"objectId":{"name":"o_button","path":"objects/o_button/o_button.yy",},"value":"quit_button","resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMOverriddenProperty",},
