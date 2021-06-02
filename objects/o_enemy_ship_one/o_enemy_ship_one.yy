@@ -8,8 +8,8 @@
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": {
-    "name": "o_ship_parent",
-    "path": "objects/o_ship_parent/o_ship_parent.yy",
+    "name": "o_enemy_parent",
+    "path": "objects/o_enemy_parent/o_enemy_parent.yy",
   },
   "physicsObject": false,
   "physicsSensor": false,

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_heart",
-    "path": "sprites/s_heart/s_heart.yy",
+    "name": "s_shield",
+    "path": "sprites/s_shield/s_shield.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,7 +24,6 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"o_player_ship","path":"objects/o_player_ship/o_player_ship.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
@@ -34,7 +33,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_heart",
+  "name": "o_shield_powerup",
   "tags": [],
   "resourceType": "GMObject",
 }

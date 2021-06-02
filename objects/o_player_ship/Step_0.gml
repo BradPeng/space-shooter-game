@@ -8,6 +8,10 @@ image_index = _thrust;
 
 var _fire_laser = mouse_check_button_pressed(mb_left);
 
+if (has_laser_powerup) {
+	_fire_laser = mouse_check_button(mb_left)	
+}
+
 if (_thrust) {
 	motion_add(image_angle, acceleration);
 	if (speed > max_speed) {
