@@ -33,7 +33,7 @@ if (room == r_space) {
 	
 	var _version_x = room_width/2;
 	var _version_y = 200;
-	draw_text(x, y + 20, "Version 1.2");
+	draw_text(x, y + 20, "Version 1.4");
 	draw_set_halign(fa_center);
 	#endregion
 }
