@@ -1,2 +1,2 @@
-take_player_damage();
+//take_player_damage();
 
