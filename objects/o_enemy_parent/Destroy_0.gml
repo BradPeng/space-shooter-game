@@ -5,7 +5,7 @@
 event_inherited();
 var _num = irandom(100);
 
-if (_num <= 20) {
+if (_num <= 10) {
 	spawn_powerup(x, y);	
 }
 
