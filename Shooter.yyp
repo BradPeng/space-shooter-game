@@ -51,6 +51,7 @@
     {"id":{"name":"s_explosion_flash","path":"sprites/s_explosion_flash/s_explosion_flash.yy",},"order":11,},
     {"id":{"name":"o_ui","path":"objects/o_ui/o_ui.yy",},"order":9,},
     {"id":{"name":"s_enemy_one","path":"sprites/s_enemy_one/s_enemy_one.yy",},"order":9,},
+    {"id":{"name":"spawn_powerup","path":"scripts/spawn_powerup/spawn_powerup.yy",},"order":13,},
     {"id":{"name":"start_button","path":"scripts/start_button/start_button.yy",},"order":9,},
     {"id":{"name":"create_right_laser","path":"scripts/create_right_laser/create_right_laser.yy",},"order":1,},
     {"id":{"name":"a_hit","path":"sounds/a_hit/a_hit.yy",},"order":2,},
