@@ -14,7 +14,7 @@ function take_player_damage(){
 		
 		audio_play_sound(a_ship_hit, 4, false);
 		_player_ship.invincible = true;
-		_player_ship.alarm[0] = 30//5
+		_player_ship.alarm[0] = 5
 		
 		
 	}
